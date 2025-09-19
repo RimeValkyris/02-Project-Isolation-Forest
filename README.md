@@ -1,6 +1,6 @@
 # 02-Project-Isolation-Forest
 
-Web Development Case Study for IT Department, Midterm and Final Term
+Web Development Case Study for IT Department Technical Service Management Major, Midterm and Final Term
 
 Project Theme: E-Sports Team Website
 
