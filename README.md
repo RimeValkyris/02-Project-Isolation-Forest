@@ -33,7 +33,7 @@ Web Development Case Study for IT Department Technical Service Management Major,
 
 - [@RimeValkyris](https://www.github.com/RimeValkyris)
 - [@Gale-Carl23](https://github.com/Gale-Carl23)
-- [@Sefqt](https://github.com/Sefqt)
+- [@Sefqt](https://github.com/onlysef)
 - [@danilauri-024](https://github.com/danilauri-024)
 - [@loveradio1337](https://github.com/loveradio1337)
 
